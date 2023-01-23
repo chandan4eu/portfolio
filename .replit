@@ -1,0 +1,4 @@
+run = "app.py.run"
+
+[nix]
+channel = "stable-22_11"
